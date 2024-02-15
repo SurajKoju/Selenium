@@ -1,0 +1,1 @@
+This repository belongs to the scraping of the site https://www.shopback.com.au/all--stores. Where the extracted data consist of Store name, Discount, Link, Scraped Date. The output of the scraped data is added as scraped_details.csv file. 
